@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/roslab/ncrtas_base_kinetic/catkin_ws/devel/setup.sh
